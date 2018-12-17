@@ -1,0 +1,4 @@
+# Will build order
+CSV file or txt file or Python list ?
+
+

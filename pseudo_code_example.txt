@@ -1,0 +1,12 @@
+# build in pseudo-code 
+
+13 supply: build supplydepot
+15 supply: build cc
+17 supply: take gas
+18 supply: build barracks
+cc complete: build factory
+factory complete: train siegetank
+factory complete: take gas
+
+
+
